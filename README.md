@@ -10,6 +10,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 - [Community Resources](#community-resources)
 - [Broker](#broker)
+- [Cloud](#cloud)
 - [Tools](#tools)
 - [Clients](#clients)
 - [Scripting](#scripting)
@@ -74,6 +75,11 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [SurgeMQ](https://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
 * [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
+
+### Cloud
+
+- [CloudMQTT](https://www.cloudmqtt.com/) - Hosted message broker for the Internet of Things. Perfectly configured and optimized message queues for IoT, ready in seconds.
+- [EMQ X MQTT Cloud](https://cloud.emqx.io/) - A secure, reliable MQTT cloud service with best pratices from EMQ team.
 
 ### Platforms
 
