@@ -342,7 +342,7 @@ Other tools that can be used to create Visualization/Dashboards can be found und
 
 ### Security, Encryption
 
-* [Teserakt E4](https://teserakt.io/) - End-to-end encryption for MQTT and other M2M protocols - Commercial solution.
+* [Teserakt E4](https://teserakt.io/) - End-to-end encryption and key management for MQTT and other M2M protocols – Open-source and paid plans.
 
 
 ## Contribute
