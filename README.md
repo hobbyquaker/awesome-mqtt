@@ -339,6 +339,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 #### Messaging
 
 * [mqtt-irc-bot](https://github.com/dobermai/mqtt-irc-bot) - A MQTT to IRC / IRC to MQTT bridge or bot.
+* [mqtt-proxy](https://github.com/grepplabs/mqtt-proxy) - Publish MQTT messages to other messaging systems.
 * [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services.
 * [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
 
