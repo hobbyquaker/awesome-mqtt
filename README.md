@@ -305,6 +305,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [Homegear](https://homegear.eu/index.php/Main_Page) has build in MQTT support.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) and MQTT. Control MQTT connected devices with Siri or HomeKit Apps.
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
+* [Json2MQTT](https://github.com/fliphess/json2mqtt) - Retrieve json data from any http api and send it to a MQTT broker.
 * [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things, has native MQTT Support.
 * [openHAB](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab1-addons/wiki/MQTT-Binding).
 * [pimatic](https://pimatic.org/) has a MQTT plugin.
