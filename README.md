@@ -63,7 +63,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 * [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
-* [FairCom EDGE] (https://www.faircom.com/products/faircom-edge) - MQTT broker with an integrated database, web server and ThingWorx connector.
+* [FairCom EDGE](https://www.faircom.com/products/faircom-edge) - MQTT broker with an integrated database, web server and ThingWorx connector.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio.
 * [HiveMQ](https://www.hivemq.com/) - Java MQTT Broker that supports MQTT 3.1, 3.1.1 and 5.0. Commercial and open source editions available.
 * [hrotti](https://github.com/alsm/hrotti) - A MQTT broker written in Go.
