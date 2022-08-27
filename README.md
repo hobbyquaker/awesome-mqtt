@@ -136,6 +136,7 @@ Core analytics
 * [VSMQTT](hhttps://github.com/rpdswtk/vsmqtt) - Simple MQTT client integrated in Visual Studio Code.
 * [MQTTX](https://github.com/emqx/MQTTX) - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.
 * [MQTT-Tiles](https://github.com/flespi-software/MQTT-Tiles) - MQTT-based IoT dashboard visualization tool. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.
+* [mqtt-dashboard](https://github.com/secanis/mqtt-dashboard) - MQTT Dashboard with a traffic visualization over your MQTT broker
 
 ### Clients
 
