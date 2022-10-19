@@ -8,31 +8,39 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 ## Contents
 
-- [Community Resources](#community-resources)
-- [Broker](#broker)
-- [Cloud](#cloud)
-- [Platforms](#platforms)
-- [Tools](#tools)
-- [Clients](#clients)
-- [Scripting](#scripting)
-- [Interfaces](#interfaces)
-    - [Makers](#makers)
-    - [Industry](#industry)
-    - [Telephony, PBX](#telephony-pbx)
-    - [Operating System](#operating-system)
-    - [Monitoring](#monitoring)
-    - [Location Tracking](#location-tracking)
-    - [Logging](#logging)
-    - [Smart Home Hardware Interfaces](#smart-home-hardware-interfaces)
-    - [Smart Home Integration Software](#smart-home-integration-software)
-    - [Lighting](#lighting)
-    - [Home Entertainment](#home-entertainment)
-    - [Smart Metering](#smart-metering)
-    - [Messaging](#messaging)
-    - [Misc](#misc)
-- [Visualization, Dashboards](#visualization-dashboards)
-- [Architecture, Convention](#architecture-convention)
-- [Security, Encryption](#security-encryption)
+- [Awesome MQTT](#awesome-mqtt)
+  - [Contents](#contents)
+    - [Community Resources](#community-resources)
+      - [Blogs](#blogs)
+      - [Talks](#talks)
+    - [Broker](#broker)
+    - [Cloud](#cloud)
+    - [Platforms](#platforms)
+    - [Tools](#tools)
+    - [Clients](#clients)
+    - [Scripting](#scripting)
+    - [Interfaces](#interfaces)
+      - [Makers](#makers)
+        - [ESP](#esp)
+        - [Firmwares for ESP based Devices](#firmwares-for-esp-based-devices)
+      - [Industry](#industry)
+      - [Telephony, PBX](#telephony-pbx)
+      - [Operating System](#operating-system)
+      - [Monitoring](#monitoring)
+      - [Location tracking](#location-tracking)
+      - [Logging](#logging)
+      - [Smart Home Hardware Interfaces](#smart-home-hardware-interfaces)
+      - [Smart Home Integration Software](#smart-home-integration-software)
+      - [Lighting](#lighting)
+      - [Home Entertainment](#home-entertainment)
+      - [Smart Metering](#smart-metering)
+      - [Messaging](#messaging)
+      - [Misc](#misc)
+    - [Visualization, Dashboards](#visualization-dashboards)
+    - [Architecture, Convention](#architecture-convention)
+    - [Security, Encryption](#security-encryption)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 
 ### Community Resources
@@ -81,6 +89,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
 * [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
 * [NanoMQ](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
+* [local_mqtt_broker_server_ubuntu](https://github.com/hemangjoshi37a/local_mqtt_broker_server_ubuntu) - How to create simple mqtt broker server in Ubuntu using mosquitto.
 
 ### Cloud
 
@@ -217,7 +226,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [ESPHome](https://esphome.io/) - builds ESP8266/ESP32 firmware from concise YAML descriptions, uploads to and manages flashed devices.
 * [Espurna](https://github.com/xoseperez/espurna) - <abbr title="Home automation">HA</abbr> firmware for ESP8266-based devices with rich web UI and ≈120 devices supported out of the box
 * [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
-* [Sonoff-Tasmota](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
+* [Tasmota](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
 * [WiFi-IoT](https://wifi-iot.com/p/wiki/) - ESP8266/ESP32 firmware builder. Partly in Russian. Free features are limited.
 
 
