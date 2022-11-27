@@ -536,9 +536,23 @@ Buy us a coffee for $5 ?
 - [AutoCut](https://gitlab.com/hemangjoshi37a/AutoCut)
 - [My_Projects](https://gitlab.com/hemangjoshi37a/My_Projects)
 - [Cool Arduino and ESP8266 or NodeMCU Projects](https://gitlab.com/hemangjoshi37a/my_Arduino)
-- [Telegram Trade Msg Backtest ML](https://gitlab.com/hemangjoshi37a/TelegramTradeMsgBacktestML)
+- [Telegram Trade Msg Backtest ML](https://gitlab.com/hemangjoshi37a/TelegramTradeMsgBacktestML) 
 
-
-
-
-
+## Social Media :
+### Multi-Language Social Media
+* [<img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/facebook.jpg" width="15px;"/>Facebook](#facebook)
+* <img src="./images/logo-icons/reddit.jpg" width="15px;"/> [Reddit](#reddit)
+* <img src="./images/logo-icons/twitter.jpg" width="15px;"/> [Twitter](#twitter)
+* <img src="./images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn](#linkedin)
+* <img src="./images/logo-icons/whatsapp.jpg" width="15px;"/> [WhatsApp](#whatsapp)
+* <img src="./images/logo-icons/tumblr.jpg" width="15px;"/> [Tumblr](#tumblr)
+* <img src="./images/logo-icons/pinterest.jpg" width="15px;"/> [Pinterest](#pinterest)
+* <img src="./images/logo-icons/blogger.jpg" width="15px;"/> [Blogger](#blogger)
+* <img src="./images/logo-icons/evernote.jpg" width="15px;"/> [EverNote](#evernote)
+* <img src="./images/logo-icons/livejournal.jpg" width="15px;"/> [LiveJournal](#livejournal)
+* <img src="./images/logo-icons/getpocket.jpg" width="15px;"/> [GetPocket](#getpocket)
+* <img src="./images/logo-icons/hacker.news.jpg" width="15px;"/> [HackerNews](#hackernews)
+* <img src="./images/logo-icons/flipboard.jpg" width="15px;"/> [FlipBoard](#flipboard)
+* <img src="./images/logo-icons/google.bookmarks.jpg" width="15px;"/> [GoogleBookmarks](#googlebookmarks)
+* <img src="./images/logo-icons/instapaper.jpg" width="15px;"/> [InstaPaper](#instapaper)
+* <img src="./images/logo-icons/diaspora.jpg" width="15px;"/> [Diaspora](#diaspora)
