@@ -140,6 +140,7 @@ Core analytics
 ### Clients
 
 * [aiomqtt](https://github.com/mossblaser/aiomqtt) - Async Python MQTT client based on paho-mqtt.
+* [asyncio-mqtt](https://github.com/sbtinstruments/asyncio-mqtt) - The idiomatic asyncio MQTT client, wrapped around paho-mqtt.
 * [CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [emqttc](https://github.com/emqx/emqtt) - Asynchronous Erlang MQTT Client.
 * [gmqtt](https://github.com/wialon/gmqtt) - Python MQTT v5.0 client (asyncio-based).
