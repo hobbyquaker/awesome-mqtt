@@ -60,6 +60,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Ably](https://www.ably.io/documentation/mqtt) - MQTT broker service and protocol adapter
 * [ActiveMQ](http://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
 * [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way.
+* [BifroMQ](https://github.com/baidu/bifromq) - BifroMQ is a Java-based high-performance MQTT Broker messaging middleware that utilizes Serverless architecture. Open-sourced by Baidu.
 * [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 * [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
