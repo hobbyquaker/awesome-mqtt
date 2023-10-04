@@ -140,6 +140,7 @@ Core analytics
 ### Clients
 
 * [aiomqtt](https://github.com/mossblaser/aiomqtt) - Async Python MQTT client based on paho-mqtt.
+* [Ballerina MQTT](https://github.com/ballerina-platform/module-ballerina-mqtt) - The Ballerina MQTT client library based on MQTTv5. For more details on the client APIs [see](https://lib.ballerina.io/ballerina/mqtt/latest).
 * [CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [emqttc](https://github.com/emqx/emqtt) - Asynchronous Erlang MQTT Client.
 * [gmqtt](https://github.com/wialon/gmqtt) - Python MQTT v5.0 client (asyncio-based).
