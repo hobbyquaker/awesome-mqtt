@@ -311,6 +311,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
 * [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things, has native MQTT Support.
 * [openHAB](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab1-addons/wiki/MQTT-Binding).
+* [openLuup](https://github.com/akbooer/openLuup) - a pure-Lua open-source emulation of the Vera Luup home automation environment with MQTT.
 * [pimatic](https://pimatic.org/) has a MQTT plugin.
 
 
